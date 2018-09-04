@@ -1,4 +1,4 @@
-# iliad
+# Iliad
 <a href="https://paypal.me/fast0n" title="Donate"><img src="https://img.shields.io/badge/Donate-PayPal-009cde.svg?style=flat-square"></a>
 [![Build Status](https://travis-ci.org/Fast0n/iliad.svg?branch=master)](https://travis-ci.org/Fast0n/iliad)
 
@@ -31,6 +31,10 @@ iliad api
     with this program; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 ```
+### Documentation
+
+https://app.swaggerhub.com/apis/MattVoid/Iliad/docs/1.0.0
+
 ### Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
